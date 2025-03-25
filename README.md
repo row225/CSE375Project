@@ -1,6 +1,5 @@
 # CSE375Project
 
 # Pokerhand algorithm:#
-1. https://github.com/AndreiVasilev/Poker_Game_Engine
-2. 
+https://github.com/zekyll/OMPEval/blob/master/README.md
 
